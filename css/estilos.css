@@ -1,6 +1,14 @@
 h1{
-    color: bisque;
+    color:blue
 }
-h1{
-    color: blueviolet;
+
+a{
+    color: white;
+    background-color: violet;
+}
+img{
+    border: 2px solid blueviolet;
+    width: 600px;
+    height: 500px;
+    display: block;
 }
